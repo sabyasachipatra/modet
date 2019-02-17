@@ -1,4 +1,2 @@
 # modet
-motif discovery using expansion tree
-hi
-I am Sabyasachi Patra
+_motif discovery using expansion tree_
