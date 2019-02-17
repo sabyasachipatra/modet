@@ -1,1 +1,1 @@
-_####### motif discovery using expansion tree_
+_##### motif discovery using expansion tree_
